@@ -1,0 +1,10 @@
+# D-Tasks3.0
+This is adecentralized application for managing your tasks built on ethereum
+
+
+Run
+npm install 
+
+npm run dev
+
+![alt text](https://imgur.com/a/Ym0z2ln)
