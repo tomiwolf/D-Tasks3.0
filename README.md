@@ -7,4 +7,4 @@ npm install
 
 npm run dev
 
-![alt text](https://imgur.com/a/Ym0z2ln)
+![Screenshot](screenshot.png)
